@@ -1,0 +1,1 @@
+Archivo de prueba para verificar que el servidor sirve archivos estáticos correctamente.
